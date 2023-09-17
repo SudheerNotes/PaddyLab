@@ -24,6 +24,12 @@ For an obvious reason, this project is very personal to me because my father has
 - Since the Paddy plant is part of `Grass Family` you can easily fool this deep learning model by uploading a photo of a Grass and you will get some kind of predictions
 - Nothing is 100% perfect, so there is always a room for improvement and no exception for this model as well
 
+
+## What next
+
+- Converting the first limitation to an opportunity by training another deep learning model to first recognize whether an image is Paddy plant or not and that will act as a gate before the actual prediction
+
+
 ## UI Screenshots
 
 Default User interface when its fully loaded
