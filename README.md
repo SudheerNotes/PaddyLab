@@ -19,18 +19,23 @@ For an obvious reason, this project is very personal to me because my father has
 **Step 3:** In few seconds you will have predictions and the prediction confidence level shown in the message box
 
 
-## Limitations
+## Limitations:
 
 - Since the Paddy plant is part of `Grass Family` you can easily fool this deep learning model by uploading a photo of a Grass and you will get some kind of predictions
 - Nothing is 100% perfect, so there is always a room for improvement and no exception for this model as well
 
 
-## What next
+## What next:
 
 - Converting the first limitation to an opportunity by training another deep learning model to first recognize whether an image is Paddy plant or not and that will act as a gate before the actual prediction
 
+## Downloads:
 
-## UI Screenshots
+For Windows 10/11 you can download from the below link:
+- [Win10/11](https://github.com/SudheerNotes/PaddyLab/releases/download/v1.0/PaddyLab_v1.0_Win10.11.zip)
+
+
+## UI Screenshots:
 
 Default User interface when its fully loaded
 
@@ -41,7 +46,7 @@ User interface during inference stage
 ![](/img/Inference_UI.png)
 
 
-## Credits
+## Credits:
 
 - [Kaggle Paddy Doctor dataset](https://www.kaggle.com/competitions/paddy-disease-classification/data)
 - [FastAI](https://www.fast.ai/)
