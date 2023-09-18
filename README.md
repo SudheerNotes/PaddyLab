@@ -8,7 +8,7 @@ For an obvious reason, this project is very personal to me because my father has
 
 ## How to use:
 
-**Step 0:** Take a closeup photo of a Paddy plant and make sure to capture impacted parts of the leafs properly
+**Step 0:** Take a closeup photo of a Paddy plant, make sure to capture impacted parts of the leafs properly
 
 **Setp 1:** Then click on `Browse` button and upload your photo
 
@@ -28,6 +28,8 @@ For an obvious reason, this project is very personal to me because my father has
 ## What next:
 
 - Converting the first limitation to an opportunity by training another deep learning model to first recognize whether an image is Paddy plant or not and that will act as a gate before the actual prediction
+
+- Creating my own API using FastAPI (I have zero knowledge about it, I think it will be a good learning opportunity)
 
 ## Downloads:
 
